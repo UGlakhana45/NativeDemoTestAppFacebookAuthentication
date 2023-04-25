@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NativeDemoTestApp</string>
+
+    <string name="facebook_app_id">1421742441977274</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">8c5cd4a3d9b2e0e934f2f944a969c348</string>
+
+
+</resources>
